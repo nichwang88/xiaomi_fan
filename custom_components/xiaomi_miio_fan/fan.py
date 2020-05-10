@@ -119,6 +119,7 @@ AVAILABLE_ATTRIBUTES_FAN_P5 = {
     ATTR_LED: "led",
     ATTR_BUZZER: "buzzer",
     ATTR_CHILD_LOCK: "child_lock",
+    ATTR_RAW_SPEED: "speed",
 }
 
 FAN_SPEED_LEVEL1 = "Level 1"
