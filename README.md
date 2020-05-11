@@ -13,7 +13,7 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 * Power (on, off)
 * Speed levels (Level 1, Level 2, Level 3, Level 4)
 * Oscillate (on, off)
-* Oscillation angle (30, 60, 90, 120)
+* Oscillation angle (30, 60, 90, 120,140)
 * Natural mode (on, off)
 * Rotate by 5 degrees (left, right)
 * Child lock (on, off)
